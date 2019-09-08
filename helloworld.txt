@@ -1,6 +1,6 @@
 测试github test cherry
 克隆新加信息 edit by others
 克隆新加信息 edit by master
-再加一些信息
+再加一些信息 test conflict
 
 测试ssh用的信息标记
